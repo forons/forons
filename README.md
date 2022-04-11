@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">Hi, I'm Daniele :wave:</h2>
 
-I'm a Staff Research Engineer at ![Huawei MRC](https://www.huawei.com/), a leading global provider of information and communications technology (ICT) infrastructure and smart devices. I create solutions for traffic, developing robust predictive models that allow the drivers to reach their destination in a faster way, by adapting the traffic light color durations. In addition, to validate these algorithms, I integrated a simulator in the solutions to verify that their results lead to an improvement of the target KPIs under multiple traffic conditions.
+I'm a Senior Full-Stack Data Scientist at ![StatsPerform](https://www.statsperform.com/artificial-intelligence/), a leading company for processing and analyzing sport data. Previously, I was a Staff Research Engineer at ![Huawei MRC](https://www.huawei.com/), a global provider of information and communications technology (ICT) infrastructure and smart devices. I create solutions for traffic, developing robust predictive models that allow the drivers to reach their destination in a faster way, by adapting the traffic light color durations. In addition, to validate these algorithms, I integrated a simulator in the solutions to verify that their results lead to an improvement of the target KPIs under multiple traffic conditions.
 
 - 🔭 My skills cover both Data Science and Data Engineering
 - 🌱 I got a Ph.D. in Data Quality, but I am also interested in Data Management, Machine Learning and Computer Vision. Here are my publications [Google Scholar](https://scholar.google.com/citations?user=5bzegdkAAAAJ)
