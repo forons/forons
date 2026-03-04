@@ -30,7 +30,8 @@ For more information, I am available through all the following channels:
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/forons)
 
 ## :chart_with_upwards_trend: GitHub Stats
-![Daniele's Github Stats](https://github-readme-stats.vercel.app/api?username=forons&show_icons=true&theme=vue-dark)
+![Daniele's GitHub Stats](./profile/stats.svg)
+<!--![Daniele's Github Stats](https://github-readme-stats.vercel.app/api?username=forons&show_icons=true&theme=vue-dark)
 <!-- ![profile_views](https://gpvc.arturio.dev/forons)
 ![followers](https://img.shields.io/github/followers/forons?label=Followers) -->
 
